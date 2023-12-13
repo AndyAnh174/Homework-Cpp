@@ -2,7 +2,7 @@
 #include <cmath>
 #include <string>
 int P(int n){
-  
+  // tao dang tap sua nha 
   int sum=0;
   for(int i=1;i<=n;i++) {
     sum+=i;
